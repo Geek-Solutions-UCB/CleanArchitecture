@@ -16,3 +16,4 @@ rootProject.name = "CleanArchitecture"
 include ':app'
 include ':data'
 include ':usecases'
+include ':domain'
