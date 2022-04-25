@@ -15,8 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "CleanArchitecture"
 include ':app'
 include ':data'
-<<<<<<< Updated upstream
-=======
 include ':usecases'
 include ':domain'
->>>>>>> Stashed changes
